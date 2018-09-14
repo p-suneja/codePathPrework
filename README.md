@@ -1,7 +1,13 @@
 ## CodePathExample
 
 ### App Description
-CodePathExample is a very simple app, that allows the user to play with the text and background of the app. It has easy to use and self explanatory buttons, which allow the user to change color of the text, change color of the background, and change the text itself. The user can also reset the text aand hte background by clicking anywhere on the background. 
+CodePathExample is a very simple app that allows the user to play with the text and background of the app. 
+It has easy to use and self explanatory buttons, which allow the user to:-
+1. change color of the text 
+2. change color of the background
+3. change the text by entering the desired text into the text box (emojis are supported and encouraged!)
+  > If the textbox is left empty, the text is changed back to the initial (default) text
+4. reset the text and the background by clicking anywhere on the background. 
 
 ### App Walk-though
 
