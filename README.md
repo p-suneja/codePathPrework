@@ -7,7 +7,7 @@ It has easy to use and self explanatory buttons, which allow the user to:-
 2. change color of the background
 3. change the text by entering the desired text into the text box (emojis are supported and encouraged!)
  - If the textbox is left empty, the text is changed back to the initial (default) text
-4. reset the text and the background by clicking anywhere on the background. 
+4. reset the text and the background back to the default by clicking anywhere on the background. 
 
 ### App Walk-though
 
